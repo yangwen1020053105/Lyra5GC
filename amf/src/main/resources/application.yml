@@ -1,0 +1,22 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: lyra5gc-amf
+  jackson:
+    default-property-inclusion: non_null
+
+amf:
+  nrf-uri: http://127.0.0.1:7777
+  host: 127.0.0.1
+  port: 8081
+  heartbeat-interval: 10
+  plmn-list:
+    - mcc: "001"
+      mnc: "01"
+
+logging:
+  level:
+    root: info
+    com.lyra5gc: debug

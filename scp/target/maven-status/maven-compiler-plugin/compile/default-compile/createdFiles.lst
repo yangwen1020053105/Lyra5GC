@@ -1,0 +1,8 @@
+com\lyra5gc\scp\proxy\ScpProxyService$SbiJsonBytes.class
+com\lyra5gc\scp\proxy\ScpProxyController.class
+com\lyra5gc\scp\proxy\ScpProxyService.class
+com\lyra5gc\scp\config\ScpProperties.class
+com\lyra5gc\scp\config\ScpTransportConfig.class
+com\lyra5gc\scp\proxy\NfInstanceCache$Entry.class
+com\lyra5gc\scp\proxy\NfInstanceCache.class
+com\lyra5gc\scp\ScpApplication.class

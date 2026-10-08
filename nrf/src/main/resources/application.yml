@@ -1,0 +1,28 @@
+server:
+  port: 7777
+
+spring:
+  application:
+    name: nrf
+  jackson:
+    default-property-inclusion: non_null
+
+nrf:
+  api-root: http://127.0.0.1:7777
+  # Serving PLMN of this NRF; registrations from other PLMNs are rejected
+  serving-plmn-list:
+    - mcc: "001"
+      mnc: "01"
+  # Default heartBeatTimer when the NF does not provide one (seconds)
+  heartbeat-interval: 10
+  # Extra grace period before a silent NF is declared dead (seconds)
+  no-heartbeat-margin: 1
+  # Subscription validity unless refreshed by PATCH (seconds)
+  subscription-validity-duration: 86400
+  # validityPeriod reported in Nnrf_NFDiscovery SearchResult (seconds)
+  nf-instance-validity-duration: 3600
+
+logging:
+  level:
+    root: info
+    com.lyra5gc: debug

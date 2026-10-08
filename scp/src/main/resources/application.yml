@@ -1,0 +1,19 @@
+server:
+  port: 7778
+
+spring:
+  application:
+    name: scp
+  jackson:
+    default-property-inclusion: non_null
+  webflux:
+    base-path: /
+
+scp:
+  # NRF used for delegated discovery
+  nrf-uri: http://127.0.0.1:7777
+
+logging:
+  level:
+    root: info
+    com.lyra5gc: debug

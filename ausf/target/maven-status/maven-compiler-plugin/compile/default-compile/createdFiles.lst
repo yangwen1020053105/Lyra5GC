@@ -1,0 +1,4 @@
+com\lyra5gc\ausf\AusfApplication.class
+com\lyra5gc\ausf\config\AusfConfig.class
+com\lyra5gc\ausf\service\AusfRegistrationService.class
+com\lyra5gc\ausf\config\AusfProperties.class

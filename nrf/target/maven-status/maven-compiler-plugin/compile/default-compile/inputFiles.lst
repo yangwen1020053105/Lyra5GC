@@ -1,0 +1,12 @@
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\config\NrfProperties.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\config\SbiTransportConfig.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\context\NfInstanceContext.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\context\SubscriptionContext.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\controller\NfDiscoveryController.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\controller\NfManagementController.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\NrfApplication.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\registry\NfRegistry.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\registry\SubscriptionRegistry.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\service\NfDiscoveryService.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\service\NfManagementService.java
+D:\gitee\lyra5-gc\nrf\src\main\java\com\lyra5gc\nrf\service\NotificationService.java

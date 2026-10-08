@@ -1,0 +1,5 @@
+com\lyra5gc\amf\config\AmfConfig.class
+com\lyra5gc\amf\config\AmfProperties.class
+com\lyra5gc\amf\controller\AmfTestController.class
+com\lyra5gc\amf\AmfApplication.class
+com\lyra5gc\amf\service\AmfRegistrationService.class
